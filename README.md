@@ -1,5 +1,5 @@
 # Policies
-中国大陆民宿短租市场各地政策梳理。Short-term rental business policies summary in China.
+中国大陆民宿短租市场各地政策梳理。Short-term rental business governance policies summary in China.
 
 ## 包含信息
 ### 是否强制要求办理
@@ -10,6 +10,5 @@
 5. 食品流通许可证或餐饮服务许可证（不提供食品可不办理）
 
 ### 最新新闻报道
-1. 关于民宿的合法化进程
+1. 关于民宿的合法化进程的重大进展
 2. 重大风险处置事件
-
